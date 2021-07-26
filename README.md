@@ -12,3 +12,6 @@
  *`showall` Shows all paths.   
  *`help` Obligatory help command.   
  
+## The Future
+ 
+ I want to rewrite all this code at some point and add features like pages, .exe support and general customization... Maybe.
